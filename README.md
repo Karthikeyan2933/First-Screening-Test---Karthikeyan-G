@@ -9,7 +9,7 @@ Color Foundation Plugin – Used to build and manage the color palette
 
 Figma Components – Created components with interactive states and hover animations
 
-🧑‍💻 Design Process
+Design Process
 Analyzed and segmented each web section (layout, icons, text, hierarchy)
 
 Rebuilt layouts in Figma using auto-layout for flexibility
@@ -27,7 +27,7 @@ Validated hierarchy, color consistency, contrast, and spacing
 Animation Summary
 This section explains the animations applied to each of the three web sections using Figma components and Smart Animate.
 
-🔁 Section 1 – Flip Animation
+Section 1 – Flip Animation
 Description:
 
 Flip animation is used for card-based content or feature blocks. When a user hovers or interacts with the card, it flips to reveal more details or alternate visuals.
@@ -54,7 +54,7 @@ Easing: Ease In Out
 
 Duration: 1200ms
 
-🔍 Section 2 – Zoom In/Out Animation
+Section 2 – Zoom In/Out Animation
 Description:
 
 Zoom In/Out animation draws attention to icons or user-focused items. It creates a responsive visual scale when users hover or move their cursor over certain elements.
@@ -79,7 +79,7 @@ Curve: Gentle
 
 Duration: 1000ms
 
-🖱️ Section 3 – Hover Animation
+Section 3 – Hover Animation
 Description:
 
 For this section, Smart Animate is used to create subtle hover effects on cards or buttons. It allows transitions between component states like background color, icon changes, or border highlights.
@@ -102,7 +102,7 @@ Curve: Gentle
 
 Duration: 1500ms
 
-📱 Responsive Design
+Responsive Design
 Each section is designed for both desktop and mobile screens:
 
 Desktop View: 1920x1080 px
